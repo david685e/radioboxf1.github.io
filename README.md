@@ -15,7 +15,6 @@ La página incluye:
 - Imágenes de autos de distintas épocas.
 - Contenido multimedia mediante videos de YouTube.
 - Menú de navegación interno.
-- Formulario de contacto.
 - Diseño adaptable a dispositivos móviles.
 
 ## Tecnologías utilizadas
